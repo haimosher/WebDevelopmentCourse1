@@ -1,0 +1,141 @@
+
+body {
+    direction: rtl;
+    background-color: antiquewhite;
+    border-style: solid;
+    border-color: darkred;
+    width: 1000px;
+    text-align: right;
+}
+
+#container {
+    width: 960px;
+    margin: auto 0;
+    background-image: url('FB_IMG_1450565387011.jpg');
+    background-attachment: fixed;
+}
+
+.haim {
+    font-family: Arial;
+    font-size: 55px;
+    font-weight: bold;
+    color: black;
+}
+
+.osher {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration:underline;
+}
+
+.osherh {
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+
+.haimo {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+}
+
+.osh {
+    font-family: Arial;
+    font-size: 20px;
+   color: black;
+}
+
+.os {
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+
+.oo {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+}
+
+.samal {
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+
+.school {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+}
+
+.ort {
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+
+.osss {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+}
+
+.tv {
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+
+.mail {
+    font-family: Arial;
+    font-size: 21px;
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.Mail {
+    font-family: Arial;
+    font-size: 18px;
+    color:white;
+    font-weight: bold;
+}
+
+.facebook {
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+    .facebook:hover {
+        color:blue;
+    }
+
+
+
+
+
+
